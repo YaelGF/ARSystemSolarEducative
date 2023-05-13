@@ -11,7 +11,8 @@ git clone https://github.com/YaelGF/ARSystemSolarEducative.git
 # Run the project
 
 ## SystemSolar.apk V1.0.0
-[![Ver video](https://img.youtube.com/vi/XXXXXXXXXXX/0.jpg)](https://www.youtube.com/watch?v=XXXXXXXXXXX)
+### Demo Video
+[![Ver video](https://youtu.be/EdZ4kX8tN_k/0.jpg](https://youtu.be/EdZ4kX8tN_k)
 
 
 # More Information
@@ -23,7 +24,7 @@ git clone https://github.com/YaelGF/ARSystemSolarEducative.git
 [![Ver video](https://img.youtube.com/vi/CS8dHcTgH58/0.jpg)](https://www.youtube.com/watch?v=CS8dHcTgH58)
 
 ## Multitarget and resources
-[Ver video](https://www.youtube.com/watch?v=IjNUBcEDwk0)
+[![Ver video](https://www.youtube.com/watch?v=IjNUBcEDwk0/0.jpg)](https://www.youtube.com/watch?v=IjNUBcEDwk0)
 
 ## Open URL
 [![Ver video](https://img.youtube.com/vi/JPob8NLHHXQ/0.jpg)](https://www.youtube.com/watch?v=JPob8NLHHXQ)
